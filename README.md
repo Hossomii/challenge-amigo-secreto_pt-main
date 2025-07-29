@@ -26,7 +26,9 @@ Para deixar o projeto mais divertido e intuitivo:
 
 ## Demonstração
 
-![preview do projeto](/assets/bannergithub.png)
+<p align="center">
+  <img src="assets/bannergithub.png" alt="preview do projeto" width="600">
+</p
 
 ---
 
