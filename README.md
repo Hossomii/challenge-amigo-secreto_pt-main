@@ -8,9 +8,9 @@ O objetivo é criar toda a **lógica e funcionalidade** de um sorteador de **Ami
 
 Para deixar o projeto mais divertido e intuitivo:
 - O botão de sortear é **desabilitado após o sorteio**, evitando sorteios repetidos.
-- O botão de adicionar também é desabilitado após iniciar o jogo.
-- O texto “Digite o nome dos seus amigos” é **modificado** após o sorteio para surpreender o usuário. (Use o app e descubra! 😄)
-- Há ideia é que o jogo seja intuitivo e fácil para reiniciar o sorteio novamente.
+- O botão de adicionar também é desabilitado após iniciar o sorteio.
+- O texto “Digite o nome dos seus amigos” é **modificado** após o sorteio para surpreender o usuário. (Teste e descubra! 😄)
+- Há ideia é que seja intuitivo e fácil para reiniciar o sorteio.
 
 ---
 
