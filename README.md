@@ -4,7 +4,7 @@
 
 Este projeto é o resultado do desafio "Amigo Secreto" do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. Trata-se de uma aplicação web simples e funcional para realizar sorteios, desenvolvida com HTML, CSS e JavaScript puros.
 
-![Demonstração do Sorteador](demonstracao.gif)
+![Demonstração do Sorteador](assets/demonstracao.gif)
 
 ---
 
