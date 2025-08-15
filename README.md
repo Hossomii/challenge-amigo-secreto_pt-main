@@ -1,41 +1,54 @@
-# Challenge - Amigo Secreto (ONE + Alura)
+# Sorteador de Amigo Secreto
 
-Este projeto foi desenvolvido como parte do **Challenge ONE Brasil**, uma iniciativa em parceria com a **Alura** e **Apple** para praticar lógica de programação, manipulação de DOM e criar experiências interativas com JavaScript.
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
-## Sobre o desafio
+Este projeto é o resultado do desafio "Amigo Secreto" do programa **Oracle Next Education (ONE)** em parceria com a **Alura**. Trata-se de uma aplicação web simples e funcional para realizar sorteios, desenvolvida com HTML, CSS e JavaScript puros.
 
-O objetivo é criar toda a **lógica e funcionalidade** de um sorteador de **Amigo Secreto**. O usuário pode digitar o nome de vários participantes e, com um clique no botão **"Sortear"**, o programa sorteia de forma aleatória, garantindo que ninguém tire a si mesmo!
-
-Para deixar o projeto mais divertido e intuitivo:
-- O botão de sortear é **desabilitado após o sorteio**, evitando sorteios repetidos.
-- O botão de adicionar também é desabilitado após iniciar o sorteio.
-- O texto “Digite o nome dos seus amigos” é **modificado** após o sorteio para surpreender o usuário. (Teste e descubra! 😄)
-- Há ideia é que seja intuitivo e fácil para reiniciar o sorteio.
+![Demonstração do Sorteador](demonstracao.gif)
 
 ---
 
-## Tecnologias utilizadas
+## Funcionalidades
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-</p>
+O projeto conta com as seguintes funcionalidades:
 
----
-
-## Demonstração
-
-<p align="center">
-  <img src="assets/bannergithub.png" alt="preview do projeto" width="600">
-</p
+* **Adicionar Amigos:** Inclua participantes na lista de sorteio de forma rápida.
+* **Validação de Nomes:** O sistema impede que nomes vazios ou duplicados sejam adicionados, garantindo a integridade da lista.
+* **Excluir Amigos:** Remova nomes individualmente da lista a qualquer momento com um botão de exclusão ao lado de cada nome.
+* **Sorteio Simples:** Com um clique, o sistema sorteia aleatoriamente um nome da lista de participantes.
+* **Reiniciar Jogo:** Limpe a lista de nomes e o resultado do sorteio para começar uma nova rodada com facilidade.
+* **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela, funcionando bem em desktops e dispositivos móveis.
 
 ---
 
-## 📂 Como executar
+## Tecnologias Utilizadas
 
-```bash
-# Clone o repositório
-git clone https://github.com/Hossomii/challenge-amigo-secreto_pt-main
+* **HTML5:** Para a estrutura semântica da página.
+* **CSS3:** Para a estilização, utilizando Flexbox para um layout moderno e variáveis CSS para um tema consistente.
+* **JavaScript:** Para toda a lógica de manipulação do DOM, incluindo adicionar, remover, sortear e reiniciar.
 
-# Acesse a pasta do projeto e abra o arquivo index.html no navegador
+---
+
+## Como Usar
+
+Para executar o projeto localmente, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/Hossomii/challenge-amigo-secreto_pt-main.git](https://github.com/Hossomii/challenge-amigo-secreto_pt-main.git)
+    ```
+2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd challenge-amigo-secreto_pt-main
+    ```
+3.  **Abra o arquivo `index.html`** no seu navegador de preferência.
+
+Pronto! Agora você pode adicionar os nomes dos seus amigos e realizar o sorteio.
+
+---
+
+## Autor
+
+Desenvolvido por **Anthony S. Bugs (Hossomii)**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hossomii)
